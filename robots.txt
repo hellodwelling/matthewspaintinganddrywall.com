@@ -1,1 +1,3 @@
-disallow: /index
+User-agent: *
+Disallow: 
+Sitemap: https://matthewspaintinganddrywall.com/sitemap.xml
